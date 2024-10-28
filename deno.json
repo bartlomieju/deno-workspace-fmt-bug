@@ -1,0 +1,8 @@
+{
+"workspace": ["./client"],
+"fmt": {
+  "include": ["*.ts", ".*tsx"],
+  "exclude": ["*.d.ts"],
+  "lineWidth": 120
+}
+}
